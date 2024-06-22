@@ -27,7 +27,7 @@ estilos = {
 
 cores_cabelo = ["Loiro", "Castanho", "Preto", "Ruivo", "Colorido"]
 etnias = ["Europeia", "Asiática", "Indígena", "Latina", "Negra"]
-idades = ["de 18 anos", "Teen", "Adulta", "de 50 anos"]
+idades = ["Teen", "de 18 anos", "Adulta", "de 30 anos", "de 50 anos"]
 angulos = ["Corpo inteiro", "Close", "Perfil"]
 
 # Template do prompt em português
